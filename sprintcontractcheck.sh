@@ -6,5 +6,4 @@ export i=`$CMD`
 if ((${#i} > 0))
 then
   `git commit -a -m "sprint contract change"`
-  `git push`
 fi
