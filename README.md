@@ -5,3 +5,5 @@ This repo watches for changes in the sprint terms and conditions. For example, [
 ### How does it work?
 
 I run a cronjob daily and pull down the latest copy. I then use git to check for changes and if there are I commit and push to this repo.
+
+Checkout the [history page here](https://github.com/jamescharlesworth/sprintcontractchange/commits/master/legal_terms_privacy_popup.shtml) for updates. Each commit is a change.
